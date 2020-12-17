@@ -3,7 +3,7 @@
     "path": "~/R/Advent-of-code/2020/2/Day 2.R",
     "project_path": "2/Day 2.R",
     "type": "r_source",
-    "hash": "2452661153",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1607839915903.0,
@@ -11,8 +11,8 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "30,31",
-        "scrollLine": "14"
+        "cursorPosition": "28,2",
+        "scrollLine": "12"
     },
     "folds": "",
     "lastKnownWriteTime": 1607843338,
